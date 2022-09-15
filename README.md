@@ -6,7 +6,6 @@ It can be powered by an external power supply or it can derive power from the da
 
 DS18B20 Temperature Sensor Pinout Pins Diagram
 
-The following table shows how you should wire the DS18B20 sensor to your Arduino board:
 
 DS18B20	Arduino
 
